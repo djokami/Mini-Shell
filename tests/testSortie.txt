@@ -1,0 +1,6 @@
+#
+# testSortie.txt - Tester redirection de sortie
+#
+ls > sortie.out
+cat sortie.out
+rm sortie.out

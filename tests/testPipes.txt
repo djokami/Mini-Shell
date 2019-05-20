@@ -1,0 +1,4 @@
+#
+# testPipes.txt - Tester avec plusieurs pipes
+#
+ls | cat | grep e | cat

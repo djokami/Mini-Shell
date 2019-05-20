@@ -1,0 +1,4 @@
+#
+# testPipe.txt - Tester avec un pipe
+#
+ls | grep e

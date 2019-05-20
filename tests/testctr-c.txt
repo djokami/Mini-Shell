@@ -1,0 +1,10 @@
+#
+# testctr-c.txt - Tester le CTR-c
+#
+ps
+SLEEP 1
+./tests/bclInfinie.sh
+SLEEP 1
+INT
+SLEEP 1
+ps

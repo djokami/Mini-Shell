@@ -1,0 +1,6 @@
+#
+# testEntree.txt - Tester redirection d'entrée
+#
+cat < src/shell.c
+echo
+cat src/shell.c

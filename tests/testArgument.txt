@@ -1,0 +1,4 @@
+#
+# testArgument.txt - Tester une commande avec arguments
+#
+ls -s -i

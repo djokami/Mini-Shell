@@ -1,0 +1,5 @@
+#
+# testEtCommerciale.txt - Tester le &
+#
+./tests/bclInfinie.sh &
+ps

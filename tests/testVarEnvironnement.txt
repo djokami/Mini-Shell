@@ -1,0 +1,5 @@
+#
+# testVarEnvironnement.txt - Tester les variables d'environnement
+#
+echo $HOME
+quit

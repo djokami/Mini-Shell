@@ -1,0 +1,8 @@
+#
+# testJobs.txt - Tester la commande jobs
+# ne fonctionne pas en utilisant le script perl
+#
+./bclInfinie.sh &
+jobs
+
+quit
